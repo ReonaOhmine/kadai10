@@ -7,6 +7,13 @@
 ## ③DEMO
 https://freddy.sakura.ne.jp/kadai10/1_first.php
 
+以下全て（ID/PASSともにtest1）
+ユーザーログイン画面
+https://freddy.sakura.ne.jp/kadai10/4_1login.php
+
+管理者ログイン画面
+https://freddy.sakura.ne.jp/kadai10/13_manager_login.php
+
 ## ④工夫した点・こだわった点
 - ページ数が多くなることが予想されたので、取り組む前に、スプシで整理した（自分だけわかればいいと思ったので、内容は分かりづらくてすみません・・・）
 　　https://docs.google.com/spreadsheets/d/12_gNrH-YqjvVqBbk4z9FbkMVArR9Cv-LsUNsV842BFM/edit?pli=1#gid=0
