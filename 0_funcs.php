@@ -9,7 +9,7 @@ function db_conn(){
     try {
         $db_name = "freddy_kadai08";    //データベース名
         $db_id   = "freddy";      //アカウント名
-        $db_pw   = "kadai08swbdhid2";          //パスワード：XAMPPはパスワード無し or MAMPはパスワード”root”に修正してください。
+        $db_pw   = "";          //パスワード：XAMPPはパスワード無し or MAMPはパスワード”root”に修正してください。
         $db_host = "mysql57.freddy.sakura.ne.jp"; //DBホスト
         return new PDO('mysql:dbname='.$db_name.';charset=utf8;host='.$db_host, $db_id, $db_pw);
     } catch (PDOException $e) {
